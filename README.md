@@ -1,3 +1,3 @@
 # UMBC DATA SCIENCE Capstone Project 
-Author:VihaanSubhash_Matturi                                                                                                   
+Author:Vihaan Subhash_Matturi                                                                                                   
 Semester:Spring
