@@ -13,7 +13,9 @@ Online reviews are a rich source of text data that may be examined to learn what
 #### _3)What questions do you have in mind and would like to answer?_
 
 At the end of my analysis, I would like to answer the following questions.
+       
         1.What are the products that need to be adjusted in order to make the customers satisfied?
+        
         2.How can a business understand the demand and interests of its customers.
 
 #### 4)Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, 
